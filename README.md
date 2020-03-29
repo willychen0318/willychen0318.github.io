@@ -1,11 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-  <head>
-    HIIHIHIIIHHH
-  </head>
-  <body>
-    <h1>Hello Ting Ting!</h1>
-    <p>This is my GitHub Pages.</p>
-    <font color="#ff6666">字體顏色</font>
-  </body>
+<head>
+<title>聖誕快樂</title>
+</head>
+<body>
+網頁內容
+</body>
 </html>
