@@ -6,5 +6,6 @@
   <body>
     <h1>Hello Ting Ting!</h1>
     <p>This is my GitHub Pages.</p>
+    <font color="#ff6666">字體顏色</font>
   </body>
 </html>
